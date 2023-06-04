@@ -19,4 +19,5 @@ public class Payment implements Serializable {
     public double getTotal() {
         return days * dailyIncome;
     }
+
 }
