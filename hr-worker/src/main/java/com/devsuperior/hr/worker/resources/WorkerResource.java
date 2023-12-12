@@ -2,6 +2,7 @@ package com.devsuperior.hr.worker.resources;
 
 import com.devsuperior.hr.worker.entities.Worker;
 import com.devsuperior.hr.worker.repositories.WorkerRepository;
+import lombok.RequiredArgsConstructor;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -15,16 +16,14 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 @RestController
+@RequiredArgsConstructor
 @RequestMapping(value = "/workers")
 public class WorkerResource {
 
     private static Logger logger = LoggerFactory.getLogger(WorkerResource.class);
 
-    @Autowired
-    private Environment env;
-
-    @Autowired
-    private WorkerRepository repository;
+    private final Environment env;
+    private final WorkerRepository repository;
 
     @GetMapping
     private ResponseEntity<List<Worker>> findAll() {
