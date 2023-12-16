@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80750587-80d3-422f-8518-38f6bfa616dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-payroll/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-payroll/src/main/java/com/example/hrpayroll/HrPayrollApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/src/main/java/com/example/hrpayroll/HrPayrollApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-payroll/src/main/java/com/example/hrpayroll/entities/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/src/main/java/com/example/hrpayroll/entities/Worker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-payroll/src/main/java/com/example/hrpayroll/feignclients/WorkerFeignClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/src/main/java/com/example/hrpayroll/feignclients/WorkerFeignClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-payroll/src/main/java/com/example/hrpayroll/resources/PaymentResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/src/main/java/com/example/hrpayroll/resources/PaymentResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-payroll/src/main/java/com/example/hrpayroll/services/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/src/main/java/com/example/hrpayroll/services/PaymentService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-payroll/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-worker/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../hr-worker/src/main/java/com/devsuperior/hr/worker/entities/Worker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/src/main/java/com/devsuperior/hr/worker/entities/Worker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +83,7 @@
       <workItem from="1702552421381" duration="612000" />
       <workItem from="1702565200214" duration="318000" />
       <workItem from="1702565680722" duration="1294000" />
-      <workItem from="1702578519885" duration="1330000" />
+      <workItem from="1702578519885" duration="1942000" />
     </task>
     <servers />
   </component>
